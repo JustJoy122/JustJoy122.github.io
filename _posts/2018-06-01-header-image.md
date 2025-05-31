@@ -1,5 +1,5 @@
 ---
-title: Post with Header Image
+title: Fork时的样例博客（原标题：Post with Header Image）
 tags: TeXt
 article_header:
   type: cover
