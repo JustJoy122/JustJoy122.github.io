@@ -50,3 +50,6 @@ header:
       tr      : &TR       Hakkında
       # @end locale config
     url: /about.html
+
+  - titles:  Github
+    url:    https://github.com/JustJoy122/JustJoy122.github.io
