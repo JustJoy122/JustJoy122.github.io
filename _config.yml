@@ -22,24 +22,24 @@ url     : https://justjoy122.github.io
 baseurl : /
 title   : Joy's Github Pages
 description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
+  互联网角落里一个无人在意的博客
 
 
 ## => Language and Timezone
 ##############################
 lang: zh
-timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
+timezone: Asia/Shanghai
 
 
 ## => Author and Social
 ##############################
 author:
   type      : # "person" (default), "organization"
-  name      :JustJoy122
-  url       :https://space.bilibili.com/1030449643/
-  avatar    :https://i1.hdslb.com/bfs/face/9c90c36a80c59d18067a960ad93255bce34781e1.jpg
+  name      : JustJoy122
+  url       : https://space.bilibili.com/1030449643/
+  avatar    : https://i1.hdslb.com/bfs/face/9c90c36a80c59d18067a960ad93255bce34781e1.jpg
   bio       : I am an amazing person.
-  email     :
+  email     : zhu.joy@outlook.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
@@ -49,7 +49,7 @@ author:
   zhihu     : # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
   linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
-  github    :"JustJoy122"
+  github    : JustJoy122
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
 
 
