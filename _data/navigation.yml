@@ -66,6 +66,7 @@ header:
         - title:  凄美地
           url:    /2025/06/28/凄美地.html
       - title:  面包出摊计划
+        children:
         - title:  APT
           url:    /2025/06/28/APT.html
     - title:  总述
