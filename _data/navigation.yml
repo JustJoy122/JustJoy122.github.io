@@ -72,10 +72,6 @@ header:
         url:    /2025/06/29/唱见
       - title: STAFF
         url:    /2025/06/29/STAFF
-      - title:  test
-        children:
-          - title:  test
-            url:    /2025/06/26/test
 
 16zp:
   - title:  开始
@@ -88,12 +84,53 @@ header:
     children:
       - title:  悬溺
         url:    /2025/06/28/悬溺
-    children:
       - title:  凄美地
         url:    /2025/06/28/凄美地
+      - title:  城市中央
+        url:    /2025/06/28/城市中央
+      - title:  苍蝇
+        url:    /2025/06/28/苍蝇
+      - title:  铃芽之旅
+        url:    /2025/06/28/铃芽之旅
+      - title:  下潜
+        url:    /2025/06/28/下潜
+      - title:  GODS
+        url:    /2025/06/28/GODS
+      - title:  找自己
+        url:    /2025/06/28/找自己
+      - title:  丸ノ内サディスティック
+        url:    /2025/06/28/丸ノ内サディスティック
+      - title:  囍
+        url:    /2025/06/28/囍
+      - title:  One Last Kiss
+        url:    /2025/06/28/OLK
+  - title:  其他系列
+    children:
+      - title:  面包出摊计划
+        url:   /2025/06/29/面包出摊计划 
+      - title:  开心爬梯企划
+        url:   /2025/06/29/开心爬梯企划 
+  - title:  面包人
+    url:     /2025/06/29/面包人
+
+    16fw:
+  - title:  开始
+    children:
+      - title:  总述
+        url:    /2025/06/18/总述.html
+      - title:  导航
+        url:    /2025/06/18/导航.html
   - title:  系列-面包出摊计划
     children:
       - title:  APT
         url:    /2025/06/28/APT
-  - title:  唱见
-    url:     /2025/06/29/唱见
+      - title:  SHOW
+        url:    /2025/06/28/SHOW
+  - title:  其他系列
+    children:
+      - title:  正片
+        url:   /2025/06/29/正片
+      - title:  开心爬梯企划
+        url:   /2025/06/29/开心爬梯企划
+  - title:  面包人
+    url:     /2025/06/29/面包人
