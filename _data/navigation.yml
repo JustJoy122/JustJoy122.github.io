@@ -59,19 +59,39 @@ header:
   - title:  系列
     children:
       - title:  各M唱B各T的I【正片】
+        url:    /2025/06/29/各M唱B各T的I【正片】
         children:
         - title:  悬溺
-          url:    /2025/06/28/悬溺.html
+          url:    /2025/06/28/悬溺
         children:
         - title:  凄美地
-          url:    /2025/06/28/凄美地.html
+          url:    /2025/06/28/凄美地
       - title:  面包出摊计划
         children:
-        - title:  APT
-          url:    /2025/06/28/APT.html
+          - title:  APT
+            url:    /2025/06/28/APT
   - title:      唱见
     children:
       - title:  INFP
-        url:    /2025/06/17/INFP.html
+        url:    /2025/06/17/INFP
       - title:  ESTJ
-        url:    /2025/06/19/ESTJ.html
+        url:    /2025/06/19/ESTJ
+
+16zp:
+  - title:  开始
+    children:
+    - title:  总述
+      url:    /2025/06/18/16.html
+  - title:  系列-各M唱B各T的I【正片】
+    children:
+      - title:  悬溺
+        url:    /2025/06/28/悬溺
+    children:
+      - title:  凄美地
+      url:    /2025/06/28/凄美地
+  - title:  系列-面包出摊计划
+    children:
+      - title:  APT
+        url:    /2025/06/28/APT
+  - title:  唱见
+    url:     /2025/06/29/唱见
