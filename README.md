@@ -1,3 +1,5 @@
+# 摆烂了，高考完/心情好再说吧
+
 ## 感谢以下项目
 [GitHub Pages](https://pages.github.com/)让这个网页服务得以存在
 
